@@ -3,8 +3,10 @@
 <a href="https://www.blessingolaleye.xyz"><img width="100%" height="auto" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="175px"/></a>
 </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Blessing</h1>
-<h3 align="center">I'm a passionate Frontend Developer from Nigeria.</h3>
+<p align="center"><font size="10">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Blessing</font>
+<br/>
+<font size="5">I'm a passionate Frontend Developer from Nigeria.</font>
+</p>
 
 
 ## 🙋‍♂️ About Me
