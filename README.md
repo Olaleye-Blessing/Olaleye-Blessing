@@ -61,7 +61,4 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=olaleye-blessing">
-</a>
-<a href="https://github.com/olaleye-blessing?tab=followers"><img src="https://img.shields.io/github/followers/olaleye-blessing?label=Followers&style=social" alt="GitHub Badge"></a>
+![](https://komarev.com/ghpvc/?username=olaleye-blessing&color=ff69b4) <a href="https://github.com/olaleye-blessing?tab=followers"><img src="https://img.shields.io/github/followers/olaleye-blessing?label=Followers&style=social" alt="GitHub Badge"></a>
