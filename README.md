@@ -17,11 +17,11 @@
 
 👨‍💻 All of my projects are available on **[my portfolio](https://www.blessingolaleye.xyz)**
 
-📫 How to reach me **blessingolaleyejob@gmail.com**
+📫 How to reach me **olaleyedev@gmail.com**
 
 <!-- ⚡ Fun fact **F U N** -->
 
-👷 Current looking for full-time work(**frontend**)
+<!-- 👷 Current looking for full-time work(**frontend**) -->
 
 ## 🚀 Languages I primarily work with:
 
