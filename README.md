@@ -11,15 +11,15 @@
 
 <!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
-🌱 I’m currently learning **improving my skills**
+🌱 I’m currently **improving my skills**
 
-👯 I’m looking to collaborate on **openSource Projects**
+👯 Playing with **open source projects**
 
 👨‍💻 All of my projects are available on **[my portfolio](https://www.blessingolaleye.xyz)**
 
-📫 How to reach me **olaleyedev@gmail.com**
+📫 Reach me **olaleyedev@gmail.com**
 
-<!-- ⚡ Fun fact **F U N** -->
+⚡ Read **my articles** on [https://blog.blessingolaleye.xyz/](https://blog.blessingolaleye.xyz/)
 
 <!-- 👷 Current looking for full-time work(**frontend**) -->
 
