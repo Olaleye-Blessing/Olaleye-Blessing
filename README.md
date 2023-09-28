@@ -1,15 +1,6 @@
-<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
-<!--
-<p>
-<a href="https://www.blessingolaleye.xyz"><img width="100%" height="auto" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="175px"/></a>
-</p>
--->
-
-<h1 align="center"><font size="10">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Blessing</font><br/><p><font size="5">I'm a passionate Frontend Developer from Nigeria.</font></p></h1>
+<h1 align="center">Your simple developer ⚡️</h1>
 
 ## 🙋‍♂️ About Me
-
-<!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
 🌱 I’m currently **improving my skills**
 
@@ -27,25 +18,22 @@
 
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![image](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-## 🚀 Languages and tools I am familiar with:
+## 🚀 Languages and tools I am familiar with or use:
 
-<!-- ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) -->
+![SCSS](https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=scss&logoColor=white) ![Tailwind-CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-![image](https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=scss&logoColor=white) ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![image](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![image](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white) ![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) ![image](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+## 📘 Currently Learning:
 
-<!-- ## 📘 Currently Learning:
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
---- -->
-
+<!--
 ## 📊 My Github Stats
-
-<!-- <p align="center">
+<p align="center">
     <a href="https://github.com/olaleye-blessing/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Olaleye Blessing's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=olaleye-blessing&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-</p> -->
+</p>
+-->
 
 <br/>
   <p>
@@ -53,12 +41,12 @@
     <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Olaleye Blessing's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olaleye-blessing&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   </p>
 <br/>
-  <!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 
-<!-- <br/>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Olaleye Blessing's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=olaleye-blessing&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+[![Blessing's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=olaleye-blessing&theme=react-dark)](https://github.com/olaleye-blessing/github-readme-activity-graph)
 
 ## ❤ Connect with me:
 
@@ -68,6 +56,6 @@
 
 </p>
 
-<!-- ## ❤ Views and Followers
+## 🌜 Views and Followers
 
-![](https://komarev.com/ghpvc/?username=olaleye-blessing&color=ff69b4) <a href="https://github.com/olaleye-blessing?tab=followers"><img src="https://img.shields.io/github/followers/olaleye-blessing?label=Followers&style=social" alt="GitHub Badge"></a> -->
+![](https://komarev.com/ghpvc/?username=olaleye-blessing&color=ff69b4) <a href="https://github.com/olaleye-blessing?tab=followers"><img src="https://img.shields.io/github/followers/olaleye-blessing?label=Followers&style=social" alt="GitHub Badge"></a>
