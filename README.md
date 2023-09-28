@@ -35,16 +35,16 @@
 </p>
 -->
 
-<br/>
+## 📈 Stats
+
   <p>
     <a href="https://github.com/olaleye-blessing/github-readme-stats"><img alt="Olaleye Blessing's Github Stats" src="https://github-readme-stats.vercel.app/api?username=olaleye-blessing&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Olaleye Blessing's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olaleye-blessing&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   </p>
-<br/>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<br/>
+## 📊 Activity Graph
 
 [![Blessing's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=olaleye-blessing&theme=react-dark)](https://github.com/olaleye-blessing/github-readme-activity-graph)
 
